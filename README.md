@@ -51,11 +51,11 @@ Below is a snippet of the final dashboard in Excel.
 
  3. 🌍 Coffee Sales by Country:
    
-   🇮🇪 Ireland - Liberica coffee outperforms other types in revenue in Ireland.
+       🇮🇪 Ireland - Liberica coffee outperforms other types in revenue in Ireland.
    
-   🇺🇸 United States - Excelsa coffee secures the top spot for revenue generation in the United States.
+       🇺🇸 United States - Excelsa coffee secures the top spot for revenue generation in the United States.
    
-   🇬🇧 United Kingdom - Arabica coffee stands out as the revenue leader in the United Kingdom.
+       🇬🇧 United Kingdom - Arabica coffee stands out as the revenue leader in the United Kingdom.
 
  4. Sales Soar in 2021 with a 14% Surge 
    While 2019 and 2020 saw nearly identical sales figures, 2021 witnessed a significant boost with a 14% increase compared to the previous year, reflecting a thriving coffee market.
